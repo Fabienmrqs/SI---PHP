@@ -1,5 +1,6 @@
 # ![title](www/img/title.svg)
 > Work: build a web application with front & back, in a week
+> Attention ! Le site ne peut être vu sans la base de donnée SQL !
 
 ## Our team :
 
